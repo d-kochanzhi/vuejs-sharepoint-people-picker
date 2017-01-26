@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ccc0d8fb-87fa-4891-a1f1-b1ffe605a210" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="VueSharePointPeoplePicker.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\VueSharePointPeoplePicker\js\lodash.min.js" />
+    <TemplateFile Location="Layouts\VueSharePointPeoplePicker\js\vue-resource.min.js" />
+    <TemplateFile Location="Layouts\VueSharePointPeoplePicker\js\vue.js" />
+    <TemplateFile Location="Layouts\VueSharePointPeoplePicker\js\main.js" />
+    <TemplateFile Location="Layouts\VueSharePointPeoplePicker\css\style.css" />
+    <TemplateFile Location="Layouts\VueSharePointPeoplePicker\PickerDialog.aspx" />
+  </TemplateFiles>
+</Solution>

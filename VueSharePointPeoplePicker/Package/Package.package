@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ccc0d8fb-87fa-4891-a1f1-b1ffe605a210" solutionId="ccc0d8fb-87fa-4891-a1f1-b1ffe605a210" resetWebServer="false" sharePointProductVersion="15.0" name="VueSharePointPeoplePicker" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="1bbe151e-9966-4264-800b-06bcfe1fc9a8" />
+  </projectItems>
+</package>

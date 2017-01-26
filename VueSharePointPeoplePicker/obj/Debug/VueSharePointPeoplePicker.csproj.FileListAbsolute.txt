@@ -1,0 +1,4 @@
+c:\users\kotchanzhi\documents\visual studio 2013\Projects\VueSharePointPeoplePicker\VueSharePointPeoplePicker\bin\Debug\VueSharePointPeoplePicker.dll
+c:\users\kotchanzhi\documents\visual studio 2013\Projects\VueSharePointPeoplePicker\VueSharePointPeoplePicker\bin\Debug\VueSharePointPeoplePicker.pdb
+c:\users\kotchanzhi\documents\visual studio 2013\Projects\VueSharePointPeoplePicker\VueSharePointPeoplePicker\obj\Debug\VueSharePointPeoplePicker.dll
+c:\users\kotchanzhi\documents\visual studio 2013\Projects\VueSharePointPeoplePicker\VueSharePointPeoplePicker\obj\Debug\VueSharePointPeoplePicker.pdb
